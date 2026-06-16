@@ -1,13 +1,5 @@
-a = [1, 2, 3]
+# WAP to find the occurrence of & in a string .
 
-b = a
-c = a[:]
+# WAP TO FIND THE FACTORIAL OF N. (NIS THE PARAMETER)
 
-a.append([4, 5])
-c.extend([6, 7])
-
-print("a =", a)
-print("b =", b)
-print("c =", c)
-
-print(id(a), id(b), id(c))
+#CREATE A PROPER calculator using python
